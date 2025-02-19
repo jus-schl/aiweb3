@@ -24,7 +24,7 @@ CHANNEL_AUTHKEY = '0987654321'
 CHANNEL_NAME = "BeachLeague Chat"
 CHANNEL_TOPIC = "Beach Volleyball"
 CHANNEL_WELCOME_MESSAGE = "Welcome to BeachLeague Chat! Talk about beach volleyball, tournaments, and tips."
-CHANNEL_ENDPOINT = "http://vm147.rz.uni-osnabrueck.de:80" # don't forget to adjust in the bottom of the file
+CHANNEL_ENDPOINT = "http://vm147.rz.uni-osnabrueck.de/channel.wsgi" # don't forget to adjust in the bottom of the file
 CHANNEL_FILE = 'messages.json'
 CHANNEL_TYPE_OF_SERVICE = 'aiweb24:chat'
 
